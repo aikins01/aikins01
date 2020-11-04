@@ -10,7 +10,7 @@ I'm Aikins, a booring developer. 👨‍💻
 - 🌱 I’m currently learning flutter and genetic algorithms
 - 👯 I’m looking to collaborate on anything, provided I am there.
 - 🤔 I’m looking for help with just about anything.
-- 💬 Ask me about dart, Linux, flutter
+- 💬 Ask me about dart, Linux, flutter, AI and any thing related to tech.
 - 📫 How to reach me: check all my handles or send me a mail, I'll see it faster
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't like cars🤗
