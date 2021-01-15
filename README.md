@@ -1,5 +1,5 @@
 # Aikins Laryea
-[![Twitter Badge](https://img.shields.io/badge/-@gladaikins-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gladaikins)](https://twitter.com/gladaikins) [![Linkedin Badge](https://img.shields.io/badge/-aikinslaryea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aikinslaryea/)](https://www.linkedin.com/in/aikinslaryea/)
+[![Twitter Badge](https://img.shields.io/badge/-@gladaikins-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aikins01)](https://twitter.com/aikins01) [![Linkedin Badge](https://img.shields.io/badge/-aikinslaryea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aikinslaryea/)](https://www.linkedin.com/in/aikinslaryea/)
 [![Gmail Badge](https://img.shields.io/badge/-aikinslaryea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aikinslaryea@gmail.com)](mailto:aikinslaryea@gmail.com)
 
 ## Hi there 👋🏾,
@@ -15,9 +15,9 @@ I'm Aikins, a booring developer. 👨‍💻
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't like cars🤗
 
-<a href="https://github.com/gladaikins">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladaikins&theme=light&hide_langs_below=1" />
+<a href="https://github.com/aikins01">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aikins01&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/gladaikins">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=gladaikins&show_icons=true&theme=light&line_height=27" alt="Aikins' github stats"/>
+<a href="https://github.com/aikins01">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=aikins01&show_icons=true&theme=light&line_height=27" alt="Aikins' github stats"/>
 </a>
