@@ -1,5 +1,5 @@
 # Aikins Laryea
-[![Twitter Badge](https://img.shields.io/badge/-@gladaikins-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aikins01)](https://twitter.com/aikins01) [![Linkedin Badge](https://img.shields.io/badge/-aikinslaryea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aikinslaryea/)](https://www.linkedin.com/in/aikinslaryea/)
+[![Twitter Badge](https://img.shields.io/badge/-@aikins01-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aikins01)](https://twitter.com/aikins01) [![Linkedin Badge](https://img.shields.io/badge/-aikinslaryea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aikinslaryea/)](https://www.linkedin.com/in/aikinslaryea/)
 [![Gmail Badge](https://img.shields.io/badge/-aikinslaryea@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aikinslaryea@gmail.com)](mailto:aikinslaryea@gmail.com)
 
 ## Hi there 👋🏾,
