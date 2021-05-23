@@ -21,3 +21,7 @@ I'm Aikins, a booring developer. 👨‍💻
 <a href="https://github.com/aikins01">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aikins01&show_icons=true&theme=light&line_height=27" alt="Aikins' github stats"/>
 </a>
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=aikins01&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
