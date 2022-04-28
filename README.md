@@ -1,4 +1,4 @@
-Hi 👋 My name is Aikins Laryea
+Hi 👋 I'm Aikins Laryea pleased to meet you.
 ==============================
 
 Self Taught Software Developer
