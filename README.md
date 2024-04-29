@@ -7,10 +7,10 @@ Self Taught Software Developer
 I'm a software developer who loves to craft digital products using open technologies - with the goal to build unique experiences, improve productivity and expanding knowledge.
 
 * 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [aikins.vercel.app](http://aikins.vercel.app)
+* 🖥️  See my portfolio at [aikins.vercel.app](http://aikins.xyz)
 * ✉️  You can contact me at [aikinslaryea@gmail.com](mailto:aikinslaryea@gmail.com)
 * 🚀  I'm currently working on [Pharst Care](http://pharst.care)
-* 🧠  I'm learning Go and Rust
+* 🧠  I'm learning Silicon Design
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Fun Fact: I listen to too much music
 
