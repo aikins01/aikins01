@@ -16,10 +16,6 @@ I'm a software developer who loves to craft digital products using open technolo
 
 [![Now Playing](https://npc-api.aikins.xyz/v1/users/aikins01/card.png?theme=dark&orientation=horizontal)](https://npc.aikins.xyz/u/aikins01)
 
-<a href="https://www.twitter.com/aikins01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/aikins01?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aikins01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aikins01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
